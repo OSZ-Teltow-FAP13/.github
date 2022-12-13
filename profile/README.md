@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/OSZ-Teltow-FAP13/.github/blob/development/assets/img/Download.png">
+    <img src="https://github.com/OSZ-Teltow-FAP13/.github/blob/development/assets/img/fapfap.png">
 </p>
 
 <!--<p align="center">
