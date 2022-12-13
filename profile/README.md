@@ -1,8 +1,12 @@
 <p align="center">
+    <img src="https://github.com/OSZ-Teltow-FAP13/.github/blob/development/assets/img/Download.png">
+</p>
+
+<!--<p align="center">
     <a href="http://fap13.xyz/" target="_blank">
         <img src="https://raw.githubusercontent.com/OSZ-Teltow-FAP13/.github/development/assets/img/fap13_02.gif" width="500">
     </a>
-</p>
+</p>-->
 
 ## About FAP13 :sparkles:
 
